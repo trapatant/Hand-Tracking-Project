@@ -23,8 +23,8 @@ Tüm bağımlılıkları tek bir komutla kurmak için `requirements.txt` dosyas�
 
 1.  Projeyi indirin veya klonlayın:
     ```bash
-    git clone [https://github.com/KullaniciAdiniz/DepoAdiniz.git](https://github.com/KullaniciAdiniz/DepoAdiniz.git)
-    cd DepoAdiniz
+    git clone [https://github.com/trapatant/Hand-Tracking-Project.git](https://github.com/trapatant/Hand-Tracking-Project.git)
+    cd Hand-Tracking-Project
     ```
 
 2.  Gerekli kütüphaneleri yükleyin:
@@ -37,4 +37,4 @@ Tüm bağımlılıkları tek bir komutla kurmak için `requirements.txt` dosyas�
 Projeyi çalıştırmak için terminalden aşağıdaki komutu girin:
 
 ```bash
-python main.py
+python Hand Tracking Project.py
